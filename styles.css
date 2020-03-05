@@ -1,0 +1,17 @@
+
+
+  ul {
+    border-left: 1px solid #adb5bd;
+    padding-left: 10px;
+    margin-left: 10px;
+    list-style-type: none;
+  }
+
+  .figure-caption {
+      background-color: lightsteelblue;
+      padding: 10px;
+  }
+
+  .amprofile {
+      border-radius: 5px 90px 5px;
+  }
